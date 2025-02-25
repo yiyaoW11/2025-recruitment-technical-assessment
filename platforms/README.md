@@ -5,7 +5,7 @@ For this to work your server must be federated, but you do not have to worry abo
 
 **You should write about what you tried and your process in the answer box below.**
 
-If you don't manage to get this working we'll still want to hear about what you tried, what worked and what didn't work, etc. Good luck!
+This task intentionally sounds challenging and contains language not frequently used in platforms as it refers to a specific protocol. The aim of this task is to research and make sense to some of the various terminology. If you don't manage to get this working we'll still want to hear about what you tried, what worked and what didn't work, etc, as knowledge isn't required, just the ability to try figure things out! Good luck!
 
 ---
 
